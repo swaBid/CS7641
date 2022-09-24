@@ -5,7 +5,3 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
-  - time
-  - six
-  - sys
-  - pydotplus
