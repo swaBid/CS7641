@@ -11,3 +11,4 @@ dependencies:
   - torchvision
   - six
   - pydotplus
+  - seaborn
