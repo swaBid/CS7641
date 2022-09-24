@@ -1,9 +1,11 @@
 name: example-environment
 channels:
   - conda-forge
+  - pytorch
 dependencies:
   - numpy
   - matplotlib
   - pandas
   - scikit-learn
-  - torch
+  - pytorch
+  - torchvision
