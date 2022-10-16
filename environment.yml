@@ -2,6 +2,7 @@ name: example-environment
 channels:
   - conda-forge
   - pytorch
+  - ipnyb
 dependencies:
   - numpy
   - matplotlib
@@ -12,3 +13,5 @@ dependencies:
   - six
   - pydotplus
   - seaborn
+  - mlrose
+  - ipnyb
