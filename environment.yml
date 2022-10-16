@@ -2,6 +2,7 @@ name: example-environment
 channels:
   - conda-forge
   - pytorch
+  - mlrose
 dependencies:
   - numpy
   - matplotlib
@@ -12,4 +13,3 @@ dependencies:
   - six
   - pydotplus
   - seaborn
-  - mlrose
